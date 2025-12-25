@@ -25,19 +25,19 @@ Style: Campus Common,思源黑体 Medium,59,&H00212121,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.80,0:00:02.39,Campus Common,プロデューサー,0,0,0,,
-Comment: 0,0:00:00.80,0:00:02.39,Campus Common,プロデューサー,0,0,0,,雨夜さん、お疲れ様でした。
-Dialogue: 0,0:00:02.60,0:00:05.92,Campus Common,燕,0,0,0,,
-Comment: 0,0:00:02.60,0:00:05.92,Campus Common,燕,0,0,0,,気休めはよせ。\n……ひどいパフォーマンスだった。
-Dialogue: 0,0:00:06.13,0:00:09.31,Campus Common,燕,0,0,0,,
-Comment: 0,0:00:06.13,0:00:09.31,Campus Common,燕,0,0,0,,こんな有り様では、\n月花に挑むどころではない。
-Dialogue: 0,0:00:09.50,0:00:11.13,Campus Common,プロデューサー,0,0,0,,
-Comment: 0,0:00:09.50,0:00:11.13,Campus Common,プロデューサー,0,0,0,,では、諦めますか？
-Dialogue: 0,0:00:11.33,0:00:13.81,Campus Common,燕,0,0,0,,
-Comment: 0,0:00:11.33,0:00:13.81,Campus Common,燕,0,0,0,,ふざけるな！\nこのままで終われるか！
-Dialogue: 0,0:00:14.00,0:00:17.46,Campus Common,燕,0,0,0,,
-Comment: 0,0:00:14.00,0:00:17.46,Campus Common,燕,0,0,0,,まだ『N.I.A』は途中だ！\n必ず巻き返してやる！
-Dialogue: 0,0:00:17.67,0:00:19.83,Campus Common,プロデューサー,0,0,0,,
-Comment: 0,0:00:17.67,0:00:19.83,Campus Common,プロデューサー,0,0,0,,その意気です。\n張り切っていきましょう。
-Dialogue: 0,0:00:20.03,0:00:22.23,Campus Common,燕,0,0,0,,
-Comment: 0,0:00:20.03,0:00:22.23,Campus Common,燕,0,0,0,,ああ！\nさっそく反省会をするぞ！
+Dialogue: 0,0:00:00.80,0:00:02.65,Campus Common,プロデューサー,0,0,0,,
+Comment: 0,0:00:00.80,0:00:02.65,Campus Common,プロデューサー,0,0,0,,雨夜さん、お疲れ様でした。
+Dialogue: 0,0:00:02.87,0:00:08.42,Campus Common,燕,0,0,0,,
+Comment: 0,0:00:02.87,0:00:08.42,Campus Common,燕,0,0,0,,気休めはよせ。\n……ひどいパフォーマンスだった。
+Dialogue: 0,0:00:08.63,0:00:13.78,Campus Common,燕,0,0,0,,
+Comment: 0,0:00:08.63,0:00:13.78,Campus Common,燕,0,0,0,,こんな有り様では、\n月花に挑むどころではない。
+Dialogue: 0,0:00:13.97,0:00:15.59,Campus Common,プロデューサー,0,0,0,,
+Comment: 0,0:00:13.97,0:00:15.59,Campus Common,プロデューサー,0,0,0,,では、諦めますか？
+Dialogue: 0,0:00:15.80,0:00:19.80,Campus Common,燕,0,0,0,,
+Comment: 0,0:00:15.80,0:00:19.80,Campus Common,燕,0,0,0,,ふざけるな！\nこのままで終われるか！
+Dialogue: 0,0:00:19.99,0:00:25.92,Campus Common,燕,0,0,0,,
+Comment: 0,0:00:19.99,0:00:25.92,Campus Common,燕,0,0,0,,まだ『N.I.A』は途中だ！\n必ず巻き返してやる！
+Dialogue: 0,0:00:26.13,0:00:28.49,Campus Common,プロデューサー,0,0,0,,
+Comment: 0,0:00:26.13,0:00:28.49,Campus Common,プロデューサー,0,0,0,,その意気です。\n張り切っていきましょう。
+Dialogue: 0,0:00:28.70,0:00:32.66,Campus Common,燕,0,0,0,,
+Comment: 0,0:00:28.70,0:00:32.66,Campus Common,燕,0,0,0,,ああ！\nさっそく反省会をするぞ！
