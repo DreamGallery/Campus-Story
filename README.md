@@ -9,6 +9,7 @@ CSV文件中包含AI翻译字幕/人工翻译以及校对，用于本地化插�
 |  缩写  |  角色名  |  应援色  |  译名  |  罗马音  |
 | :---: | :-----: | :-----: | :-----: | :-----: |
 | amao | 有村 麻央 | $\color{#C45DC8}{C45DC8}$ | 有村麻央 | Mao Arimura |
+| atbm | 雨夜 燕 | $\color{#8874FF}{8874FF}$ | 雨夜燕 | Amaya Tsubame |
 | fktn | 藤田 ことね | $\color{#FFD203}{FFD203}$ | 藤田琴音 | Kotone Fujita |
 | hmsz | 秦谷 美鈴 | $\color{#6EA3FC}{6EA3FC}$ | 秦谷美铃 | Misuzu Hataya |
 | hrnm | 姫崎 莉波 | $\color{#FD7EC2}{FD7EC2}$ | 姬崎莉波 | Rinami Himesaki |
