@@ -66,11 +66,6 @@ jobs:
           python main.py ass -a
           python main.py csv -a -c -w 5
         working-directory: Hatsuboshi_Teleprompter
-        env:
-          OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
-
 
       - name: copy subtitle to repo
         run: |
