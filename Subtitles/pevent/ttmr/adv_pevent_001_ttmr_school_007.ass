@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.80,0:00:03.98,Campus Common,あさり先生,0,0,0,,
 Comment: 0,0:00:00.80,0:00:03.98,Campus Common,あさり先生,0,0,0,,今日は月村さんがいないので、\n彼女に関係した知識を得ましょう。
 Dialogue: 0,0:00:04.18,0:00:07.42,Campus Common,あさり先生,0,0,0,,
-Comment: 0,0:00:04.18,0:00:07.42,Campus Common,あさり先生,0,0,0,,月村さんが中等部時代に所属していた\nグループ『SyngUP!』。
+Comment: 0,0:00:04.18,0:00:07.42,Campus Common,あさり先生,0,0,0,,月村さんが中等部時代に所属していた\nグループ『SyngUp!』。
 Dialogue: 0,0:00:07.62,0:00:11.01,Campus Common,あさり先生,0,0,0,,
 Comment: 0,0:00:07.62,0:00:11.01,Campus Common,あさり先生,0,0,0,,このグループ名は『Sing up』の\nもじりですが、ではその意味は？
 Dialogue: 0,0:00:11.22,0:00:12.22,Campus Choices,プロデューサー,0,0,0,,
